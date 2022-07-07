@@ -10,7 +10,7 @@ The manual attendance system has a lot of problems that caused inaccuracy in att
 ## Definition
 A facial recognition is  a  computer  application for automatically identifying or verifying a person from a digital image or a video frame from a video source.
 ## Motivation
-The main motivation for the project was the slow and inefficient traditional manual attentdance system. So why not make it automated fast and much efficiently. Also such face detection techniques are in use by many departments.
+The main motivation for the project was the slow and inefficient traditional manual attendance system. So why not make it automated fast and much efficiently. Also such face detection techniques are in use by many departments.
 ## Features
 * Check Camera. <br />
 * Capture Images. <br />

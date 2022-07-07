@@ -31,6 +31,10 @@ The main motivation for the project was the slow and inefficient traditional man
 * DateTime(`pip install DateTime`). <br />
 * Os(`Available in python`). <br />
 * CSV(`pip install python-csv`). <br />
+
+## Note
+* High Processing Require.
+* Noisy Image can reduse accuracy so Quality of images matter.
  
 
 

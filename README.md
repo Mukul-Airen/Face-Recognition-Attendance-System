@@ -12,10 +12,28 @@ A facial recognition is  a  computer  application for automatically identifying 
 ## Motivation
 The main motivation for the project was the slow and inefficient traditional manual attention system. So why not make it automated fast and much efficiently. Also such face detection techniques are in use by many departments.
 ## Features
-Check Camera. <br />
-Capture Images. <br />
-Training Images.   <br />
-Recognize Images and Mark Attendance.
+* Check Camera. <br />
+* Capture Images. <br />
+* Training Images.   <br />
+* Recognize Images and Mark Attendance.
+
+## Requirements
+### Software Used:
+* VS Code.
+* Pycharm.
+### Bulid with:
+* Python 3.8
+### Libraries Used:
+* OpvenCV(`pip install opencv-python`).   <br />
+* Numpy(`pip install numpy`).     <br />
+* Face_Recognition(`pip install face-recognition`).    <br />
+* Dlib(`pip install dlib`). <br />
+* DateTime(`pip install DateTime`). <br />
+* Os(`Available in python`). <br />
+* CSV(`pip install python-csv`). <br />
+ 
+
+
 
 
 

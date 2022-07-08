@@ -31,6 +31,13 @@ The main motivation for the project was the slow and inefficient traditional man
 * DateTime(`pip install DateTime`). <br />
 * Os(`Available in python`). <br />
 * CSV(`pip install python-csv`). <br />
+## Screenshot
+### Face Recognition
+![](Recognition.png)
+### CSV 
+![](Csv.png)
+### Excel
+![](excel.png)
 
 ## Note
 * Require High Processor.
